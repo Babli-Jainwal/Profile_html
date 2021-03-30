@@ -140,20 +140,6 @@ h3{
     border-color: blue;
 } 
 
-/*.pictures
-{
-     background-size: 80% 80%;
-    width: 95%;
-    height: 700px;
-    margin-top: 10px;
-    height: 70px;
-    text-align: center;
-    padding-top: 10;
-    margin-left: 30px;
-    font: 38px; 
-    
-    
-  }*/
   .title3{
     color:black;
     font-size:34px;
@@ -182,7 +168,7 @@ h3{
 .col2{ 
   width: 25%;
   height: 250px;
-  background-image:url('../images/car.jpeg');
+  background-image:url('../images/crrr.jpeg');
   background-size: 100% 100%;
   padding: 10px;
   margin-left: 5%;
